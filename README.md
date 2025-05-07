@@ -8,7 +8,7 @@ Created on Mon Apr 14 14:50:28 2025
 
 🧮 Statistical Analysis & Simulation Toolbox
 
-A modular Python toolkit for performing statistical inference, hypothesis testing, data visualization, and simulation modeling—built from scratch without relying on black-box functions.
+A modular Python toolkit for performing statistical inference, hypothesis testing, data visualization, and simulation modeling—built from scratch.
 
 - 📊 Custom implementations of:
   - ANOVA (between/within)
